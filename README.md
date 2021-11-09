@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruhulaminjr
 - 👀 I’m interested in ... Webdevelopment
-- 🌱 I’m currently learning ... Html Css Javascript
+- 🌱 I’m currently learning ... Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pythonruhul@gmail.com
 
