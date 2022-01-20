@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/showvro"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20MERN%20Stack%20Web%20Developer;Self-Taught%20Learner;1%2B%20Years%20of%20Coding%20Experience;Determind%20to%20Learn%20New%20Things&center=true&width=350&height=45&color=808080"></a>
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ruhulaminjr/ruhulaminjr/main/code.gif" height= "350" width="50%"/>
+
 
 ![](https://komarev.com/ghpvc/?username=ruhulaminjr&color=05B6D3&style=flat-square&label=PROFILE+VIEWS)
 
