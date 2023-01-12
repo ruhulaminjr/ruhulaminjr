@@ -14,7 +14,6 @@
 - 📙 I am a **self-taught developer**
 - 🌱 I'm currently learning `Data Structure And Algorihm`
 - ⌨️ Most used line of code `console.log()`
-- 🥅 2022 Goals: Learn **Master Cse Fundamental**
 - 📧 Mail: ruhuldevs@gmail.com
 
 ## Connect with me:
