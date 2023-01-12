@@ -50,13 +50,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
-## Top Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showvro&layout=compact)](https://github.com/ruhulaminjr/github-readme-stats)
-
----
-
-## Github Stats:
-
-![Ruhul amin GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulaminjr&show_icons=true&theme=default)
