@@ -16,11 +16,10 @@
 - ⌨️ Most used line of code `console.log()`
 - 📧 Mail: ruhuldevs@gmail.com
 
-## Connect with me:
+## My Profile:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ruhulaminjr.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulbro/)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/19712201)
 
 ---
 
