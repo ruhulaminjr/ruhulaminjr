@@ -6,9 +6,6 @@
 <a href="https://github.com/showvro"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20MERN%20Stack%20Web%20Developer;Self-Taught%20Learner;1%2B%20Years%20of%20Coding%20Experience;Determind%20to%20Learn%20New%20Things&center=true&width=350&height=45&color=808080"></a>
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=ruhulaminjr&color=05B6D3&style=flat-square&label=PROFILE+VIEWS)
-
 ## About Me:
 
 - 📙 I am a **self-taught developer**
